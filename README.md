@@ -38,8 +38,8 @@ Running on the microcontroller, we need
 
 As of this writing, the best sites that provide a free API to query the current prices of different cryptocurrencies are:
 
-[coinmarketcap.com](coinmarketcap.com)<br>
-[coindesk.com](coindesk.com)<br>
+* [coinmarketcap.com](coinmarketcap.com)<br>
+* [coindesk.com](coindesk.com)<br>
 
 Even better, at the moment they neither of them requires an API key, 
   - so we only need to write the firmware to perform queries and 
