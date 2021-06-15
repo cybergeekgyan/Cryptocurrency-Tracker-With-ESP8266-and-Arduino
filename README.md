@@ -28,7 +28,7 @@ The SoC comes in a variety of modules, breakouts, and development boards.
 
 For this project, we evaluated a few options and settled DevKit 1.0 Development Board for its compactness and our familiarity with using an OLED display with it in past projects OLED display with it in past projects!
 
-*THE SOFTWARE*
+**THE SOFTWARE**
 
 Running on the microcontroller, we need 
   - software that's able to query the price data from dedicated servers, as well as 
@@ -38,8 +38,8 @@ Running on the microcontroller, we need
 
 As of this writing, the best sites that provide a free API to query the current prices of different cryptocurrencies are:
 
-[coinmarketcap.com](coinmarketcap.com)
-[coindesk.com](coindesk.com)
+[coinmarketcap.com](coinmarketcap.com)<br>
+[coindesk.com](coindesk.com)<br>
 
 Even better, at the moment they neither of them requires an API key, 
   - so we only need to write the firmware to perform queries and 
